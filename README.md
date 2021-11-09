@@ -1,6 +1,4 @@
-# Project Title
-
-Project Node with Typescript and MySQL
+# Project Node with Typescript and MySQL
 ---
 ## Requirements
 
